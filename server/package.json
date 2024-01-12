@@ -10,9 +10,16 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "babel": "^6.23.0",
+        "concurrently": "^8.2.2",
+        "express": "^4.18.2",
+        "idb": "^8.0.0"
     },
     "devDependencies": {
-        "nodemon": "^2.0.4"
+        "css-loader": "^6.9.0",
+        "nodemon": "^2.0.4",
+        "webpack": "^5.89.0",
+        "webpack-dev-server": "^4.15.1",
+        "webpack-pwa-manifest": "^4.3.0"
     }
 }
